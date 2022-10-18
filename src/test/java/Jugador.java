@@ -1,3 +1,4 @@
+package futbol;
 
 public class Jugador extends Futbolista implements Comparable{
 	public short golesMarcados;
